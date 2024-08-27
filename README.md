@@ -1,4 +1,4 @@
-<h1>Hi, I'm Morgan! JWipe - Disk Sanitization</h1>
+<h1>Hi, I'm Morgan! 
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
