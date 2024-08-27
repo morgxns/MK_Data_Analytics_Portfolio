@@ -11,7 +11,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 - <b>SQL</b> 
 - <b>Tableau/PowerBI</b>
-- <b>Excel</b
+- <b>Excel</b>
 
 <h2>Environments Used </h2>
 
