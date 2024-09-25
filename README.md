@@ -25,6 +25,21 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - <b>Windows 10 Pro</b> (22H2)
 
+- ## Table of Contents
+- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - SQL
+    - [Analyzing the Twitch Streamer Analytics (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+  - PowerBI
+    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+  - Excel / Google Sheets
+    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+  - More skills to come!
+
+- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact Me](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -65,3 +80,18 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+
+## Education
+University of Illinois at Urbana-Champaign: 
+Bachelor's Degree - Industrial/Product Design and Business
+Aug 2020 - May 2023
+
+## Certificates
+Continuing to actively build confidence in my growing technical skills. Listed below are the ones I have finished (in reverse-chronological order, with the date of completion in brackets):
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
+- [PL-900](https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-complete-guide/) (TBD 2024) (Udemy)
+- [Data Analyst Associate Certification](https://app.datacamp.com/certification/get-started/associate-data-analyst/overview) (TBD 2024) (DataCamp)
+
+## Contacts
+- LinkedIn: [@morganckang](https://www.linkedin.com/in/morganckang/)
+- Email: morganckang@gmail.com
