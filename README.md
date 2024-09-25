@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - <b>Windows 10 Pro</b> (22H2)
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [About](README.md)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - <b>MySQL</b> 
     - [Analyzing the Twitch Streamer Analytics (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
