@@ -4,8 +4,9 @@
  ### [Connnect on LinkedIn](https://www.linkedin.com/in/morganckang/)
 
 <h2>👩‍💻 About Me:</h2>
-Hi there! I'm Morgan, a passionate data analytics enthusiast and Generative AI researcher currently sharpening my skills in MySQL, Business Intelligence (BI) tools, and Excel. After a career pivot from sales, I'm now fully immersed in data analytics—transforming raw data into actionable insights that drive decision-making. <br>
+Hi there! I'm Morgan, a passionate data analytics enthusiast and Generative AI researcher currently sharpening my skills in MySQL, Business Intelligence (BI) tools, and Excel. After a career pivot from sales, I'm now fully immersed in data analytics—transforming raw data into actionable insights that drive decision-making. 
 
+<br>
 
 I have a strong interest in leveraging cutting-edge technologies to streamline processes and enhance business outcomes. In addition to analytics, I'm deeply fascinated by the possibilities of Generative AI and how it’s reshaping industries. My projects reflect my curiosity, technical skills, and drive to solve real-world problems through innovative solutions.
 
