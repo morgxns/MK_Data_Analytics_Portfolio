@@ -24,8 +24,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - <b>Windows 10 Pro</b> (22H2)
 
 ## Table of Contents
-- [About](README.md)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#-about-me)
+- [Portfolio Projects](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#portfolio-projects)
   - <b>MySQL</b> 
     - [Analyzing the Twitch Streamer Analytics (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
   - <b>PowerBI</b>
@@ -34,14 +34,14 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - <b>...More skills to come!</b>
 
-- [Education](https://github.com/morgnxs/MK_Data-Analytics-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/morgnxs/MK_Data-Analytics-Portfolio/blob/main/README.md#certificates)
-- [Contact Me](https://github.com/morgnxs/MK_Data-Analytics-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/main/README.md#contacts)  
+- [Certificates & Professional Development](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/main/README.md#contacts)
+- [Contact Me](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Twitch Streamer Analytics: Trends and Insights
 **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
