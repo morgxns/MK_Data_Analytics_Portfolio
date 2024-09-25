@@ -19,22 +19,22 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - <b>MySQL</b> 
 - <b>PowerBI</b>
-- <b>Excel</b>
+- <b>Excel / Google Sheets</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10 Pro</b> (22H2)
 
-- ## Table of Contents
+## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - SQL
+  - <b>MySQL</b> 
     - [Analyzing the Twitch Streamer Analytics (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-  - PowerBI
+  - <b>PowerBI</b>
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-  - Excel / Google Sheets
+  - <b>Excel / Google Sheets</b>
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - More skills to come!
+  - <b>...More skills to come!</b>
 
 - [Education](https://github.com/morgnxs/Data-Analytics-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
