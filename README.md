@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - More skills to come!
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Education](https://github.com/morgnxs/Data-Analytics-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact Me](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
@@ -86,10 +86,11 @@ University of Illinois at Urbana-Champaign:
 Bachelor's Degree - Industrial/Product Design and Business
 Aug 2020 - May 2023
 
-## Certificates
+## Certificates & Professional Development
 Continuing to actively build confidence in my growing technical skills. Listed below are the ones I have finished (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [PL-900](https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-complete-guide/) (TBD 2024) (Udemy)
+- [Microsoft Certified: Power Platform Fundamentals(PL-900)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification) (TBD 2024) (DataCamp - Microsoft)
+- [PL-900](https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-complete-guide/) (TBD 2024) (Udemy - Microsoft)
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification) (TBD 2024) (Microsoft)
 - [Data Analyst Associate Certification](https://app.datacamp.com/certification/get-started/associate-data-analyst/overview) (TBD 2024) (DataCamp)
 
 ## Contacts
