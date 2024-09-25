@@ -34,9 +34,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - <b>...More skills to come!</b>
 
-- [Education](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/main/README.md#contacts)  
-- [Certificates & Professional Development](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/main/README.md#contacts)
-- [Contact Me](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#education)  
+- [Certificates & Professional Development](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#certificates--professional-development)
+- [Contact Me](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -112,9 +112,9 @@ Aug 2020 - May 2023
 
 ## Certificates & Professional Development
 Continuing to actively build confidence in my growing technical skills. Listed below are the ones I have finished (in reverse-chronological order, with the date of completion in brackets):
-- [Microsoft Certified: Power Platform Fundamentals(PL-900)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification) (TBD 2024) (DataCamp - Microsoft)
-- [PL-900](https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-complete-guide/) (TBD 2024) (Udemy - Microsoft)
 - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification) (TBD 2024) (Microsoft)
+- [Microsoft Certified: Power Platform Fundamentals (PL-900)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification) (TBD 2024) (Microsoft)
+- [Microsoft Power Platform Fundamentals (PL-900)](https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-complete-guide/) (TBD 2024) (Udemy)
 - [Data Analyst Associate Certification](https://app.datacamp.com/certification/get-started/associate-data-analyst/overview) (TBD 2024) (DataCamp)
 
 ## Contacts
