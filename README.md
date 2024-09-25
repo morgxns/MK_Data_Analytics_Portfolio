@@ -6,14 +6,12 @@
 <h2>👩‍💻 About Me:</h2>
 Hi there! I'm Morgan, a passionate data analytics enthusiast and Generative AI researcher currently sharpening my skills in MySQL, Business Intelligence (BI) tools, and Excel. After a career pivot from sales, I'm now fully immersed in data analytics—transforming raw data into actionable insights that drive decision-making.
 
-
 I have a strong interest in leveraging cutting-edge technologies to streamline processes and enhance business outcomes. In addition to analytics, I'm deeply fascinated by the possibilities of Generative AI and how it’s reshaping industries. My projects reflect my curiosity, technical skills, and drive to solve real-world problems through innovative solutions.
 
 My CV in [pdf](pending...).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
@@ -36,9 +34,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - <b>...More skills to come!</b>
 
-- [Education](https://github.com/morgnxs/Data-Analytics-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact Me](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/morgnxs/MK_Data-Analytics-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/morgnxs/MK_Data-Analytics-Portfolio/blob/main/README.md#certificates)
+- [Contact Me](https://github.com/morgnxs/MK_Data-Analytics-Portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
