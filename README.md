@@ -1,4 +1,4 @@
-<h1>Welcome! Hi, it's nice to e-meet you. I'm Morgan! 
+<h1>Hi, it's nice to e-meet you 👋 I'm Morgan! 
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
