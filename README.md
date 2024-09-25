@@ -3,8 +3,14 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
  ### [Connnect on LinkedIn](https://www.linkedin.com/in/morganckang/)
 
-<h2>👩‍💻 Data Analytics Projects:</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2>👩‍💻 About Me:</h2>
+Hi there! I'm Morgan, a passionate data analytics enthusiast and Generative AI researcher currently sharpening my skills in MySQL, Business Intelligence (BI) tools, and Excel. After a career pivot from sales, I'm now fully immersed in data analytics—transforming raw data into actionable insights that drive decision-making.
+
+I have a strong interest in leveraging cutting-edge technologies to streamline processes and enhance business outcomes. In addition to analytics, I'm deeply fascinated by the possibilities of Generative AI and how it’s reshaping industries. My projects reflect my curiosity, technical skills, and drive to solve real-world problems through innovative solutions.
+
+My CV in [pdf](pending...).
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 <br />
 
 
