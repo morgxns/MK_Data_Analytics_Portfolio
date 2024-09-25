@@ -106,8 +106,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-University of Illinois at Urbana-Champaign:  
-Bachelor's Degree - Industrial/Product Design *STEM-certified*  
+University of Illinois at Urbana-Champaign  
+Bachelor's Degree - Industrial/Product Design (*STEM-certified*) 
 Business Minor
 Aug 2020 - May 2023  
 
