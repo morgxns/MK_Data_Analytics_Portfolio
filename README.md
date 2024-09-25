@@ -106,12 +106,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-University of Illinois at Urbana-Champaign:
-Bachelor's Degree - Industrial/Product Design and Business
-Aug 2020 - May 2023
+University of Illinois at Urbana-Champaign:  
+Bachelor's Degree - Industrial/Product Design and Business  
+Aug 2020 - May 2023  
 
 ## Certificates & Professional Development
-Continuing to actively build confidence in my growing technical skills. Listed below are the ones I have finished (in reverse-chronological order, with the date of completion in brackets):
+Continuing to actively build confidence in my growing technical skills.  
+Listed below are the ones I have finished (in reverse-chronological order, with the date of completion in brackets):
 - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification) (TBD 2024) (Microsoft)
 - [Microsoft Certified: Power Platform Fundamentals (PL-900)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/?practice-assessment-type=certification) (TBD 2024) (Microsoft)
 - [Microsoft Power Platform Fundamentals (PL-900)](https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-complete-guide/) (TBD 2024) (Udemy)
