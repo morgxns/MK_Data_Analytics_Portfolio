@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#-about-me)
 - [Portfolio Projects](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#portfolio-projects)
   - <b>MySQL</b> 
-    - [Analyzing the Twitch Streamer Analytics (Study Project)](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
+    - [Analyzing Trends in Game Popularity and Their Correlation with Game Features on Twitch](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
   - <b>PowerBI</b>
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
   - <b>Excel / Google Sheets</b>
@@ -41,12 +41,12 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Twitch Streamer Analytics: Trends and Insights
+### Twitch Analytics: Trends and Insights
 **Syntax:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** To identify emerging trends and predict future gaming popularity.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** This project analyzes Twitch viewer numbers for popular games over the past 10 years to identify trends and changes in gaming popularity. By examining historical data, I uncover patterns in viewer engagement, highlight emerging titles, and predict future popular games. The findings are visualized to provide actionable insights for developers, marketers, and content creators in the gaming industry.
 
 **Skills:** SQL, data analysis, problem-solving, data cleaning, storytelling with data
 
@@ -60,7 +60,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Description:** The dataset comprises Twitch viewer numbers for various popular games over the past 10 years. It includes records of game titles, viewer counts, stream dates, and additional metadata such as genre and platform. The project encompasses the following steps: data loading, data cleaning and preprocessing, exploratory data analysis (EDA), analyzing viewer trends, and predicting future game popularity.
 
 **Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
 
