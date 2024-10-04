@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#-about-me)
 - [Portfolio Projects](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#portfolio-projects)
   - <b>MySQL</b> 
-    - [Analyzing Trends in Game Popularity and Their Correlation with Game Features on Twitch](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
+    - [Analyzing Steam Game Rankings and Reviews](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
   - <b>PowerBI</b>
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
   - <b>Excel / Google Sheets</b>
@@ -41,12 +41,12 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Twitch Analytics: Trends and Insights
+### Steam Analytics: Trends and Insights
 **Syntax:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
-**Goal:** To identify emerging trends and predict future gaming popularity.
+**Goal:** To analyze Steam game rankings and user reviews to uncover insights about game popularity, sentiment trends, and the relationship between sales and reviews,
 
-**Description:** This project analyzes Twitch viewer numbers for popular games over the past 10 years to identify trends and changes in gaming popularity. By examining historical data, I uncover patterns in viewer engagement, highlight emerging titles, and predict future popular games. The findings are visualized to provide actionable insights for developers, marketers, and content creators in the gaming industry.
+**Description:** This project analyzes Steam game rankings and user reviews to uncover insights into game popularity, sentiment trends, and the relationship between sales and reviews. By examining historical data, I identify patterns in game performance, evaluate user sentiments, and explore how different genres have evolved over time. The findings are visualized to provide actionable insights for game developers, marketers, and industry stakeholders looking to understand market dynamics and consumer preferences.
 
 **Skills:** SQL, data analysis, problem-solving, data cleaning, storytelling with data
 
