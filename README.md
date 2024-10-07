@@ -41,6 +41,20 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Tech Store Sales Analysis
+
+**Goal:** To unlock sales insights that are not visible before for sales team for decision support & automation to reduce manual time spent in data gathering.
+
+**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+
+**Description:** The dataset comprises Twitch viewer numbers for various popular games over the past 10 years. It includes records of game titles, viewer counts, stream dates, and additional metadata such as genre and platform. The project encompasses the following steps: data loading, data cleaning and preprocessing, exploratory data analysis (EDA), analyzing viewer trends, and predicting future game popularity.
+
+**Skills:** understanding the problem, requirement gathering, data collection, data preperation, data modelling, dashboard building, deploymen, generating insights
+
+**Technology:** MySQL, PowerBI, Excel
+
+**Results:** An automated dashboard porvidding quick & latest sales insights in order to support data driven decision making.
+
 ### Steam Analytics: Trends and Insights
 **Syntax:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
@@ -53,22 +67,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** MySQL, Excel, PowerBI
 
 **Results:** Using MySQL queries, INSERT CONCLUSIONS HERE!!!
-
-### Tech Store Sales Analysis
-
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
-
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
-
-**Description:** The dataset comprises Twitch viewer numbers for various popular games over the past 10 years. It includes records of game titles, viewer counts, stream dates, and additional metadata such as genre and platform. The project encompasses the following steps: data loading, data cleaning and preprocessing, exploratory data analysis (EDA), analyzing viewer trends, and predicting future game popularity.
-
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
-
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-
-
 
 ### Nashville Housing Data Cleaning
 **Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
