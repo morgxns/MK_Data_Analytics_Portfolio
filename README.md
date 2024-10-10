@@ -41,7 +41,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Tech Store Sales Analysis
+### Sales Analysis
 
 **Goal:** To unlock sales insights that are not visible before for sales team for decision support & automation to reduce manual time spent in data gathering.
 
@@ -53,30 +53,20 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** MySQL, PowerBI, Excel
 
-**Results:** An automated dashboard porvidding quick & latest sales insights in order to support data driven decision making.
+**Results:** An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
 
 ### Steam Analytics: Trends and Insights
 **Syntax:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
-**Goal:** To analyze Steam game rankings and user reviews to uncover insights about game popularity, sentiment trends, and the relationship between sales and reviews,
+**Goal:** The goal of this project is to analyze gender representation on Twitch, with a specific focus on identifying whether women are underrepresented among streamers and viewers.
 
-**Description:** This project analyzes Steam game rankings and user reviews to uncover insights into game popularity, sentiment trends, and the relationship between sales and reviews. By examining historical data, I identify patterns in game performance, evaluate user sentiments, and explore how different genres have evolved over time. The findings are visualized to provide actionable insights for game developers, marketers, and industry stakeholders looking to understand market dynamics and consumer preferences.
+**Description:** By leveraging data from Twitch’s API and third-party platforms, this analysis will explore key metrics such as the proportion of female streamers, their viewer engagement, and their presence in top-streamer rankings. The project aims to provide insights into the challenges faced by female streamers and examine trends across game genres, categories, and audience demographics. Ultimately, this analysis seeks to contribute to a better understanding of gender disparities on Twitch and inform future strategies to promote gender equity on the platform.
 
 **Skills:** SQL, data analysis, problem-solving, data cleaning, storytelling with data
 
 **Technology:** MySQL, Excel, PowerBI
 
 **Results:** Using MySQL queries, INSERT CONCLUSIONS HERE!!!
-
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
 
 
 ### Covid 19 Data Exploration
@@ -88,19 +78,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL Server
 
-
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
 
 
 ## Education
