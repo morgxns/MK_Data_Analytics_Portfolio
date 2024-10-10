@@ -5,34 +5,40 @@
 ### Data Analysis Using SQL
 
 1. Show all customer records
+-- Insight: helps to understand the full customer base
 
 	SELECT * 
 	FROM customers;`
 
 2. Show total number of customers
+-- Insight: provides quick metric to assess size of customer base
 
 	SELECT count(*) 
 	FROM customers;
 
 3. Show transactions for Chennai market (market code for chennai = 'Mark001')
+-- Insight: focused analysis on specific market into regional performance, behaviors, and trends
 
 	SELECT * 
 	FROM transactions 
 	WHERE market_code = 'Mark001';
 
 4. Show distinct product codes that were sold in chennai
+-- Insight: provides product offerings informing inventory and marketing strategies
 
 	SELECT distinct product_code 
 	FROM transactions 
 	WHERE market_code = 'Mark001';
 
 5. Show transactions where currency is in US dollars (USD)
+-- Insight: analyzes sales performance in international market or transactions in USD
 
 	SELECT * 
 	FROM transactions 
 	WHERE currency = "USD";
 
 6. Show transactions in 2020 joined by date table
+-- Insight: view of sales data over specific year
 
 	SELECT transactions.*,
 	       date.* 
@@ -42,6 +48,7 @@
 	WHERE date.year = 2020;
 
 7. Show total revenue in year 2020
+-- Insight: key financial metric to assess overall business performance for that year
 
 	SELECT SUM(transactions.sales_amount) 
 	FROM transactions 
@@ -52,6 +59,7 @@
 		OR transactions.currency = "USD\r";
 	
 8. Show total revenue in year January of 2020
+-- Insight: analysis of season trends or impact of specific events in Jan, aiding in month-to-month comparisons
 
 	SELECT SUM(t.sales_amount) 
 	FROM transactions AS t
@@ -61,7 +69,8 @@
 		AND date.month_name = "January" 
 		AND (t.currency = "INR" OR t.currency = "USD");
 
-1. Show total revenue in year 2020 in Chennai
+9. Show total revenue in year 2020 in Chennai
+-- Insight: provides clear picture of the Chennai market contribution to overall revenue, guiding market-specific stragegies and resouce allocation
 
 	SELECT SUM(t.sales_amount) 
 	FROM transactions AS t
@@ -70,13 +79,81 @@
 	WHERE date.year = 2020
 		AND t.market_code = "Mark001";
 
+2. What are my top 2 products? 
 
-Data Analysis Using Power BI
+	SELECT product_code, 
+	       SUM(sales_amount) AS total_revenue
+	FROM transactions
+	GROUP BY product_code
+	ORDER BY total_revenue DESC
+	LIMIT 2;
+
+What are my bottom 2 products? 
+
+SELECT product_code, 
+	       SUM(sales_amount) AS total_revenue
+	FROM transactions
+	GROUP BY product_code
+	ORDER BY total_revenue ASC
+	LIMIT 2;
+
+3. Where are my weakest regions where business is declining?
+
+	SELECT market_code, 
+    	       SUM(sales_amount) AS total_revenue
+	FROM transactions
+	GROUP BY market_code
+	ORDER BY total_revenue ASC
+	LIMIT 3;
+
+
+1. List top 5 customers by zones
+
+	SELECT 
+  	      c.customer_code,
+    	      c.customer_name,
+              SUM(t.sales_amount) AS total_revenue
+	FROM customers AS c
+	INNER JOIN transactions AS t 
+		ON c.customer_code = t.customer_code
+	GROUP BY c.customer_code, c.customer_name
+	ORDER BY total_revenue DESC
+	LIMIT 5;
+
+2. Least sold market by zones
+
+	SELECT market_code,
+   	       SUM(sales_amount) AS total_revenue
+	FROM transactions
+	GROUP BY market_code
+	ORDER BY total_revenue ASC
+	LIMIT 1;
+
+
+3. Least sold products by year
+
+SELECT p.product_code,
+       p.product_type,  
+       YEAR(t.order_date) AS sales_year,
+       SUM(t.sales_amount) AS total_revenue
+FROM transactions AS t
+INNER JOIN products AS p 
+	ON t.product_code = p.product_code
+GROUP BY p.product_code, p.product_type, sales_year
+ORDER BY total_revenue ASC
+LIMIT 1;
+
+
+Data Analysis Using Power BI (power query)
 ============================
 
 1. Formula to create norm_amount column
 -- Note: The conversion rate from USD to INR is constantly changing, but for this analysis, we're using a fixed rate of 75.
 
 = Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" then [sales_amount]*75 else [sales_amount], type any)
+
+
+4. Can you create a line chart for monthly sales vs product by year?
+5. Product demand of which ones have constantly declined over time?
 
 
