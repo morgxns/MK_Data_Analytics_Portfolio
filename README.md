@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#-about-me)
 - [Portfolio Projects](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#portfolio-projects)
   - <b>MySQL</b> 
-    - [Analyzing Steam Game Rankings and Reviews](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
+    - [Analyzing a ](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
   - <b>PowerBI</b>
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
   - <b>Excel / Google Sheets</b>
@@ -41,21 +41,21 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Sales Analysis
+### Computer Hardware Sales Analysis
 
 **Goal:** To unlock sales insights that are not visible before for sales team for decision support & automation to reduce manual time spent in data gathering.
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [`TITLE OF PROJECT`](LINKTOPROJECT)
 
-**Description:** The dataset comprises Twitch viewer numbers for various popular games over the past 10 years. It includes records of game titles, viewer counts, stream dates, and additional metadata such as genre and platform. The project encompasses the following steps: data loading, data cleaning and preprocessing, exploratory data analysis (EDA), analyzing viewer trends, and predicting future game popularity.
+**Description:** The dataset for the hardware project includes customer information, sales transactions, product details, and regional data. Key components consist of unique identifiers for customers and transactions, sales amounts, order dates, market codes, and product categories. This comprehensive dataset will facilitate the analysis of sales trends and customer behavior, enabling the sales director to make informed decisions to enhance business performance.
 
-**Skills:** understanding the problem, requirement gathering, data collection, data preperation, data modelling, dashboard building, deploymen, generating insights
+**Skills:** understanding the problem, requirement gathering, data collection, data preperation, data modelling, dashboard building, deployment, generating insights
 
-**Technology:** MySQL, PowerBI, Excel
+**Technology:** MySQL, PowerBI, ETL, Power Query Editor
 
 **Results:** An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
 
-### Steam Analytics: Trends and Insights
+### Twitch Analytics: Gender 
 **Syntax:** ['Sales_SQL_Queries.txt'](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/d1b678f686ed7107502040d989473727cb63b33d/Sales_SQL_Queries.txt)
 
 **Goal:** The goal of this project is to analyze gender representation on Twitch, with a specific focus on identifying whether women are underrepresented among streamers and viewers.
@@ -67,17 +67,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** MySQL, Excel, PowerBI
 
 **Results:** Using MySQL queries, INSERT CONCLUSIONS HERE!!!
-
-
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
-
 
 
 ## Education
