@@ -56,7 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
 
 ### Steam Analytics: Trends and Insights
-**Syntax:** [`Sales_SQL_Queries.txt`]
+**Syntax:** [Sales_SQL_Queries.txt]
 
 **Goal:** The goal of this project is to analyze gender representation on Twitch, with a specific focus on identifying whether women are underrepresented among streamers and viewers.
 
