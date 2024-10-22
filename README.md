@@ -7,7 +7,7 @@ Hi there! I'm Morgan, a passionate data analytics enthusiast and Generative AI r
   
 I have a strong interest in leveraging cutting-edge technologies to streamline processes and enhance business outcomes. In addition to analytics, I'm deeply fascinated by the possibilities of Generative AI and how it’s reshaping industries. My projects reflect my curiosity, technical skills, and drive to solve real-world problems through innovative solutions.
 
-My CV in [pdf](pending...).
+My resume/cv is available upon request :)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 <br />
