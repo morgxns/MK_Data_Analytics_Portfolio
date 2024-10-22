@@ -49,11 +49,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** MySQL, PowerBI, ETL, Power Query Editor, Excel
 
 **Results:** An automated dashboard providing quick & latest sales insights in order to support data driven decision making. 
-([PowerBi Dashboard Sales Pt 1.jpg](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/0abc381cca03d941ed4af38cef6663786b41b1e7/PowerBi%20Dashboard%20Sales%20Pt%201.jpg)) 
-([PowerBi Dashboard Sales Pt 2.jpg](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/a50925c9d0e9a5d3bd0e307723d8997f9d6776a6/PowerBi%20Dashboard%20Sales%20Pt%202.jpg))
+[Dashboard Homepage Visualization](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/0abc381cca03d941ed4af38cef6663786b41b1e7/PowerBi%20Dashboard%20Sales%20Pt%201.jpg)
+[Second landing page Visualization](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/a50925c9d0e9a5d3bd0e307723d8997f9d6776a6/PowerBi%20Dashboard%20Sales%20Pt%202.jpg)
 
-### Twitch Analytics: Gender 
-**Syntax:** ['Sales_SQL_Queries.txt'](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/d1b678f686ed7107502040d989473727cb63b33d/Sales_SQL_Queries.txt)
+### UNDER CONTRUCTION: Twitch Analytics: Gender
+**Syntax:** ['Twitch Queries'](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/d1b678f686ed7107502040d989473727cb63b33d/Sales_SQL_Queries.txt)
 
 **Goal:** The goal of this project is to analyze gender representation on Twitch, with a specific focus on identifying whether women are underrepresented among streamers and viewers.
 
