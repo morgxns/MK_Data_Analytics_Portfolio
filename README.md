@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#-about-me)
 - [Portfolio Projects](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#portfolio-projects)
-  - <b>MySQL</b> 
+  - <b>MySQL, PowerBI, Excel, Power Query Editor</b> 
     - [Computer Hardware Sales Analysis](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
 
 - [Education](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#education)  
@@ -44,7 +44,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The dataset for the hardware project includes customer information, sales transactions, product details, and regional data. Key components consist of unique identifiers for customers and transactions, sales amounts, order dates, market codes, and product categories. This comprehensive dataset will facilitate the analysis of sales trends and customer behavior, enabling the sales director to make informed decisions to enhance business performance.
 
-**Skills:** understanding the problem, requirement gathering, data collection, data preperation, data modelling, dashboard building, deployment, generating insights
+**Skills:** understanding the problem, requirement gathering, data collection, data preperation, data modelling, data cleaning, dashboard building, deployment, generating insights
 
 **Technology:** MySQL, PowerBI, ETL, Power Query Editor, Excel
 
