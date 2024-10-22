@@ -27,12 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#-about-me)
 - [Portfolio Projects](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#portfolio-projects)
   - <b>MySQL</b> 
-    - [Analyzing a ](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
-  - <b>PowerBI</b>
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-  - <b>Excel / Google Sheets</b>
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - <b>...More skills to come!</b>
+    - [Computer Hardware Sales Analysis](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#twitch-streamer-analytics-trends-and-insights)
 
 - [Education](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#education)  
 - [Certificates & Professional Development](https://github.com/morgxns/MK_Data_Analytics_Portfolio?tab=readme-ov-file#certificates--professional-development)
