@@ -77,7 +77,7 @@
 	WHERE date.year = 2020
 		AND t.market_code = "Mark001";
 
-2. What are my top 2 products? 
+10. What are my top 2 products? 
 
 	SELECT product_code, 
 	       SUM(sales_amount) AS total_revenue
@@ -86,7 +86,7 @@
 	ORDER BY total_revenue DESC
 	LIMIT 2;
 
-What are my bottom 2 products? 
+11. What are my bottom 2 products? 
 
 SELECT product_code, 
 	       SUM(sales_amount) AS total_revenue
@@ -95,7 +95,7 @@ SELECT product_code,
 	ORDER BY total_revenue ASC
 	LIMIT 2;
 
-3. Where are my weakest regions where business is declining?
+12. Where are my weakest regions where business is declining?
 
 	SELECT market_code, 
     	       SUM(sales_amount) AS total_revenue
@@ -105,7 +105,7 @@ SELECT product_code,
 	LIMIT 3;
 
 
-1. List top 5 customers by zones
+13. List top 5 customers by zones
 
 	SELECT 
   	      c.customer_code,
@@ -118,7 +118,7 @@ SELECT product_code,
 	ORDER BY total_revenue DESC
 	LIMIT 5;
 
-2. Least sold market by zones
+14. Least sold market by zones
 
 	SELECT market_code,
    	       SUM(sales_amount) AS total_revenue
@@ -128,7 +128,7 @@ SELECT product_code,
 	LIMIT 1;
 
 
-3. Least sold products by year
+15. Least sold products by year
 
 SELECT p.product_code,
        p.product_type,  
@@ -142,6 +142,33 @@ ORDER BY total_revenue ASC
 LIMIT 1;
 
 
+16. Highest total cost products
+
+SELECT 
+    p.product_code, 
+    SUM(t.sales_amount) AS total_revenue
+FROM transactions t
+INNER JOIN products p 
+    ON t.product_code = p.product_code
+GROUP BY p.product_code
+ORDER BY total_revenue DESC;
+
+
+17. Cost vs. Revenue 
+
+SELECT 
+    p.product_code, 
+    p.product_type, 
+    SUM(t.sales_amount) AS total_revenue, 
+    SUM(t.cost_price) AS total_cost, 
+    SUM(t.sales_amount) - SUM(t.cost_price) AS total_profit
+FROM transactions t
+JOIN products p 
+    ON t.product_code = p.product_code
+GROUP BY p.product_code, p.product_type
+ORDER BY total_profit DESC;
+
+
 Data Analysis Using Power BI (power query)
 ============================
 
@@ -150,8 +177,33 @@ Data Analysis Using Power BI (power query)
 
 = Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" then [sales_amount]*75 else [sales_amount], type any)
 
+2. Profit Margin %
+% Profit Margins = DIVIDE ( [Total Profit], [Sales Measure],0)
 
-4. Can you create a line chart for monthly sales vs product by year?
-5. Product demand of which ones have constantly declined over time?
+3. Revenue
+Revenue = SUM('sales transactions'[sales_amount])
 
+4. Sales Measure
+Sales Measure = 
+SUM('sales transactions'[sales_qty])
+
+5. Sales Qty
+Sales Qty = SUM('sales transactions'[sales_qty])
+
+6. Sales Variance
+Sales_Variance = [Sales Qty]-BaseMeasures[SalesLastMonth]
+
+7. Sales Variance %
+Sales_Variance_% = DIVIDE([Sales_Variance],BaseMeasures[SalesLastMonth])
+
+8. Sales Last Month
+SalesLastMonth = CALCULATE(BaseMeasures[Sales Qty],
+PARALLELPERIOD('sales transactions'[order_date],-1, MONTH))
+
+9. Total Costs
+Total Costs = 
+SUMX('sales transactions', 'sales transactions'[cost_price] * 'sales transactions'[sales_qty])
+
+10. Total Profits
+Total Profit = [Sales Qty] - [Total Costs]
 
