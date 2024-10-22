@@ -45,13 +45,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To unlock sales insights that are not visible before for sales team for decision support & automation to reduce manual time spent in data gathering.
 
-**Code:** [`TITLE OF PROJECT`](LINKTOPROJECT)
+**Code:** [`Computer_Hardware Sales Analysis`](LINKTOPROJECT)
 
 **Description:** The dataset for the hardware project includes customer information, sales transactions, product details, and regional data. Key components consist of unique identifiers for customers and transactions, sales amounts, order dates, market codes, and product categories. This comprehensive dataset will facilitate the analysis of sales trends and customer behavior, enabling the sales director to make informed decisions to enhance business performance.
 
 **Skills:** understanding the problem, requirement gathering, data collection, data preperation, data modelling, dashboard building, deployment, generating insights
 
-**Technology:** MySQL, PowerBI, ETL, Power Query Editor
+**Technology:** MySQL, PowerBI, ETL, Power Query Editor, Excel
 
 **Results:** An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
 
@@ -66,8 +66,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** MySQL, Excel, PowerBI
 
-**Results:** Using MySQL queries, INSERT CONCLUSIONS HERE!!!
-
+**Results:** TBD.
 
 ## Education
 University of Illinois at Urbana-Champaign  
