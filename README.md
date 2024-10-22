@@ -48,7 +48,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** MySQL, PowerBI, ETL, Power Query Editor, Excel
 
-**Results:** An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
+**Results:** An automated dashboard providing quick & latest sales insights in order to support data driven decision making. [`Page 1`](PowerBi Dashboard Sales Pt 1.jpg) [`Page 2`](PowerBi Dashboard Sales Pt 2.jpg)
 
 ### Twitch Analytics: Gender 
 **Syntax:** ['Sales_SQL_Queries.txt'](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/d1b678f686ed7107502040d989473727cb63b33d/Sales_SQL_Queries.txt)
