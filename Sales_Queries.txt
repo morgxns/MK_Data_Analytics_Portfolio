@@ -169,7 +169,7 @@ GROUP BY p.product_code, p.product_type
 ORDER BY total_profit DESC;
 
 
-Data Analysis Using Power BI (power query)
+## Data Analysis Using Power BI (power query)
 ============================
 
 1. Formula to create norm_amount column
