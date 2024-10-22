@@ -40,7 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To unlock sales insights that are not visible before for sales team for decision support & automation to reduce manual time spent in data gathering.
 
-**Code:** [`Computer_Hardware Sales Analysis`](LINKTOPROJECT)
+**Code:** [`Computer_Hardware Sales Analysis`](Sales_Queries.txt)
 
 **Description:** The dataset for the hardware project includes customer information, sales transactions, product details, and regional data. Key components consist of unique identifiers for customers and transactions, sales amounts, order dates, market codes, and product categories. This comprehensive dataset will facilitate the analysis of sales trends and customer behavior, enabling the sales director to make informed decisions to enhance business performance.
 
