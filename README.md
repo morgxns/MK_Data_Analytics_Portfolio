@@ -51,6 +51,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** An automated dashboard providing quick & latest sales insights in order to support data driven decision making. 
 - [Dashboard Homepage Visualization](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/0abc381cca03d941ed4af38cef6663786b41b1e7/PowerBi%20Dashboard%20Sales%20Pt%201.jpg)
 - [Second landing page Visualization](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/a50925c9d0e9a5d3bd0e307723d8997f9d6776a6/PowerBi%20Dashboard%20Sales%20Pt%202.jpg)
+- [Check out my Medium article here!](https://medium.com/@morgankangaroo/cracking-the-data-vault-a-sql-powerbi-exploration-of-a-computer-hardware-sales-dataset-926cd40f1c63)
 
 ### UNDER CONTRUCTION: Twitch Analytics: Gender
 **Syntax:** ['Twitch Queries'](https://github.com/morgxns/MK_Data_Analytics_Portfolio/blob/d1b678f686ed7107502040d989473727cb63b33d/Sales_SQL_Queries.txt)
