@@ -1,6 +1,5 @@
 <h1>It's nice to e-meet you 👋 I'm Morgan! 
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
  ### [Connnect on LinkedIn](https://www.linkedin.com/in/morganckang/)
 
 <h2>👩‍💻 About Me:</h2>
